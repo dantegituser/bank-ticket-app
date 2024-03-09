@@ -2,15 +2,15 @@
 
 ## Description
 
-Basic **bank queue management application**, three components interconected by socket events.
-Desk component, allowing the user to simulate a client support desk.
-Create ticket component, allows the user to create all the needed tickets.
-Public screen component, allows the people in waiting room to see the number of tickets in the queue.
-Desk creation component, to allow multiple users to serve the people based on tickets.
+Basic **bank queue management application**, three components interconected by socket events.  
+Desk component, allowing the user to simulate a client support desk.  
+Create ticket component, allows the user to create all the needed tickets.  
+Public screen component, allows the people in waiting room to see the number of tickets in the queue.  
+Desk creation component, to allow multiple users to serve the people based on tickets.  
 
 ## Features
 
-Uses **express** to create and run a basic server
+Uses **express** to create and run a basic server.  
 **socket.io** used to emit/listen to events in the frontend and backend.
 
 ### Screenshots
